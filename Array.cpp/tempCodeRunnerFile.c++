@@ -1,0 +1,1 @@
+cout << linearSearch(matrix , rows , cols , 51 ) << endl ;
